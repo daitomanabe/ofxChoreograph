@@ -1,0 +1,534 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		211D8E0749344D0339EAF992 /* Cue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CB977645DC89C28DDA509D67 /* Cue.cpp */; };
+		3985EFBD0471A7E165B860A5 /* AdvancedTweenApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 620CF2A5F68AB0C9BD50BB3F /* AdvancedTweenApp.cpp */; };
+		403D0CBC44F5D61BB819B57A /* Timeline.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 20470DE9D5E622BB27F97E5A /* Timeline.cpp */; };
+		6C059489E7856525F282CE7E /* MotionGroup.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 622A864B906FB2FA7DEF48B8 /* MotionGroup.cpp */; };
+		CD387D3688668E566FA9C4E4 /* TimelineItem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 77977AFF6979EF3AA6B42621 /* TimelineItem.cpp */; };
+		E4328149138ABC9F0047C5CB /* openFrameworksDebug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4328148138ABC890047C5CB /* openFrameworksDebug.a */; };
+		E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E4328147138ABC890047C5CB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = E4B27C1510CBEB8E00536013;
+			remoteInfo = openFrameworks;
+		};
+		E4EEB9AB138B136A00A80321 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = E4B27C1410CBEB8E00536013;
+			remoteInfo = openFrameworks;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		E4C2427710CC5ABF004149E2 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		00EC7CDB923666FB3C27881F /* Retime.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Retime.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Retime.hpp; sourceTree = SOURCE_ROOT; };
+		048E0F09DC08473CE07DD478 /* Sequence.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Sequence.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Sequence.hpp; sourceTree = SOURCE_ROOT; };
+		04C0A5B2406EC3EF674EFE94 /* Phrase.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Phrase.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Phrase.hpp; sourceTree = SOURCE_ROOT; };
+		0C75EDE6FA30D7FBD7DC89B9 /* TimeType.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = TimeType.h; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/TimeType.h; sourceTree = SOURCE_ROOT; };
+		0F31EB40F50677CE6A649FD7 /* CinderSpecialization.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = CinderSpecialization.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization/CinderSpecialization.hpp; sourceTree = SOURCE_ROOT; };
+		1983FBAFE458AEAFB3370901 /* Combine.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Combine.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Combine.hpp; sourceTree = SOURCE_ROOT; };
+		20470DE9D5E622BB27F97E5A /* Timeline.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 30; name = Timeline.cpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Timeline.cpp; sourceTree = SOURCE_ROOT; };
+		27DCCBB12000BC358EE8C455 /* Ramp.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Ramp.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Ramp.hpp; sourceTree = SOURCE_ROOT; };
+		29708D01A7834CD12DB65B7F /* TimelineOptions.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = TimelineOptions.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/TimelineOptions.hpp; sourceTree = SOURCE_ROOT; };
+		47D432A555851FC09441CBE8 /* MotionGroup.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = MotionGroup.h; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/MotionGroup.h; sourceTree = SOURCE_ROOT; };
+		490580A94E63D8C32482DB7E /* ofxChoreograph.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = ofxChoreograph.h; path = ../../../addons/ofxChoreograph/src/ofxChoreograph.h; sourceTree = SOURCE_ROOT; };
+		49B4DBACABE4FBE6DE72474D /* Choreograph.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Choreograph.h; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Choreograph.h; sourceTree = SOURCE_ROOT; };
+		4AAE5A5AE0738785ECD51ADE /* TimelineItem.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = TimelineItem.h; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/TimelineItem.h; sourceTree = SOURCE_ROOT; };
+		5C53D7F5C618BA73D5EA56BC /* AdvancedTweenApp.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = AdvancedTweenApp.h; path = src/AdvancedTweenApp.h; sourceTree = SOURCE_ROOT; };
+		620CF2A5F68AB0C9BD50BB3F /* AdvancedTweenApp.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 30; name = AdvancedTweenApp.cpp; path = src/AdvancedTweenApp.cpp; sourceTree = SOURCE_ROOT; };
+		622A864B906FB2FA7DEF48B8 /* MotionGroup.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 30; name = MotionGroup.cpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/MotionGroup.cpp; sourceTree = SOURCE_ROOT; };
+		62F21D3ED67F51AB29CAD7A4 /* VectorManipulation.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = VectorManipulation.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail/VectorManipulation.hpp; sourceTree = SOURCE_ROOT; };
+		6747A90934496BE3C447BE95 /* Timeline.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Timeline.h; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Timeline.h; sourceTree = SOURCE_ROOT; };
+		77977AFF6979EF3AA6B42621 /* TimelineItem.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 30; name = TimelineItem.cpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/TimelineItem.cpp; sourceTree = SOURCE_ROOT; };
+		78051EDE2CDDB83038BDB83C /* Hold.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Hold.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Hold.hpp; sourceTree = SOURCE_ROOT; };
+		861F81DC747596CE9429859F /* Output.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Output.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Output.hpp; sourceTree = SOURCE_ROOT; };
+		9A6D0E21BBCD9CFB2D53D6C0 /* Cue.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Cue.h; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Cue.h; sourceTree = SOURCE_ROOT; };
+		A520FD4DBB9E842028C019C1 /* Easing.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Easing.h; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Easing.h; sourceTree = SOURCE_ROOT; };
+		BB59E68CA79855DCE3C77E14 /* MakeUnique.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = MakeUnique.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail/MakeUnique.hpp; sourceTree = SOURCE_ROOT; };
+		CB977645DC89C28DDA509D67 /* Cue.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 30; name = Cue.cpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Cue.cpp; sourceTree = SOURCE_ROOT; };
+		D37B17025DF61E442ABB01C1 /* Sugar.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Sugar.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Sugar.hpp; sourceTree = SOURCE_ROOT; };
+		E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = openFrameworksLib.xcodeproj; path = ../../../libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj; sourceTree = SOURCE_ROOT; };
+		E4B69B5B0A3A1756003C02F2 /* AdvancedTweenDebug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdvancedTweenDebug.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = src/main.cpp; sourceTree = SOURCE_ROOT; };
+		E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text.plist.xml; path = "openFrameworks-Info.plist"; sourceTree = "<group>"; };
+		E4EB691F138AFCF100A09F29 /* CoreOF.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = CoreOF.xcconfig; path = ../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig; sourceTree = SOURCE_ROOT; };
+		E4EB6923138AFD0F00A09F29 /* Project.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Project.xcconfig; sourceTree = "<group>"; };
+		E9F92E2F4BC551B65852DF70 /* Motion.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Motion.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Motion.hpp; sourceTree = SOURCE_ROOT; };
+		FA9541A0BDEB60AD67406BBD /* Procedural.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Procedural.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Procedural.hpp; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E4B69B590A3A1756003C02F2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4328149138ABC9F0047C5CB /* openFrameworksDebug.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		29184E6D07FD7D2651458351 /* specialization */ = {
+			isa = PBXGroup;
+			children = (
+				0F31EB40F50677CE6A649FD7 /* CinderSpecialization.hpp */,
+			);
+			name = specialization;
+			sourceTree = "<group>";
+		};
+		38BDCD9E6A577AD8255FE30C /* libs */ = {
+			isa = PBXGroup;
+			children = (
+				BDEFCD97632FC7CD5284F00B /* Choreograph */,
+			);
+			name = libs;
+			sourceTree = "<group>";
+		};
+		43F3552C039E8CB9C7C56DA6 /* choreograph */ = {
+			isa = PBXGroup;
+			children = (
+				49B4DBACABE4FBE6DE72474D /* Choreograph.h */,
+				CB977645DC89C28DDA509D67 /* Cue.cpp */,
+				9A6D0E21BBCD9CFB2D53D6C0 /* Cue.h */,
+				A1EF91DBA995EB56DAE53F24 /* detail */,
+				A520FD4DBB9E842028C019C1 /* Easing.h */,
+				E9F92E2F4BC551B65852DF70 /* Motion.hpp */,
+				622A864B906FB2FA7DEF48B8 /* MotionGroup.cpp */,
+				47D432A555851FC09441CBE8 /* MotionGroup.h */,
+				861F81DC747596CE9429859F /* Output.hpp */,
+				98DD8C725A3506AA67291399 /* phrase */,
+				04C0A5B2406EC3EF674EFE94 /* Phrase.hpp */,
+				048E0F09DC08473CE07DD478 /* Sequence.hpp */,
+				29184E6D07FD7D2651458351 /* specialization */,
+				20470DE9D5E622BB27F97E5A /* Timeline.cpp */,
+				6747A90934496BE3C447BE95 /* Timeline.h */,
+				77977AFF6979EF3AA6B42621 /* TimelineItem.cpp */,
+				4AAE5A5AE0738785ECD51ADE /* TimelineItem.h */,
+				29708D01A7834CD12DB65B7F /* TimelineOptions.hpp */,
+				0C75EDE6FA30D7FBD7DC89B9 /* TimeType.h */,
+			);
+			name = choreograph;
+			sourceTree = "<group>";
+		};
+		6948EE371B920CB800B5AC1A /* local_addons */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = local_addons;
+			sourceTree = "<group>";
+		};
+		7977BD28B0325C8FE56A2B4F /* src */ = {
+			isa = PBXGroup;
+			children = (
+				43F3552C039E8CB9C7C56DA6 /* choreograph */,
+			);
+			name = src;
+			sourceTree = "<group>";
+		};
+		98DD8C725A3506AA67291399 /* phrase */ = {
+			isa = PBXGroup;
+			children = (
+				1983FBAFE458AEAFB3370901 /* Combine.hpp */,
+				78051EDE2CDDB83038BDB83C /* Hold.hpp */,
+				FA9541A0BDEB60AD67406BBD /* Procedural.hpp */,
+				27DCCBB12000BC358EE8C455 /* Ramp.hpp */,
+				00EC7CDB923666FB3C27881F /* Retime.hpp */,
+				D37B17025DF61E442ABB01C1 /* Sugar.hpp */,
+			);
+			name = phrase;
+			sourceTree = "<group>";
+		};
+		A1EF91DBA995EB56DAE53F24 /* detail */ = {
+			isa = PBXGroup;
+			children = (
+				BB59E68CA79855DCE3C77E14 /* MakeUnique.hpp */,
+				62F21D3ED67F51AB29CAD7A4 /* VectorManipulation.hpp */,
+			);
+			name = detail;
+			sourceTree = "<group>";
+		};
+		B68D52E7A99A8C2199C32459 /* ofxChoreograph */ = {
+			isa = PBXGroup;
+			children = (
+				DD6FE84E2D8AC7725BCA78AC /* src */,
+				38BDCD9E6A577AD8255FE30C /* libs */,
+			);
+			name = ofxChoreograph;
+			sourceTree = "<group>";
+		};
+		BB4B014C10F69532006C3DED /* addons */ = {
+			isa = PBXGroup;
+			children = (
+				B68D52E7A99A8C2199C32459 /* ofxChoreograph */,
+			);
+			name = addons;
+			sourceTree = "<group>";
+		};
+		BDEFCD97632FC7CD5284F00B /* Choreograph */ = {
+			isa = PBXGroup;
+			children = (
+				7977BD28B0325C8FE56A2B4F /* src */,
+			);
+			name = Choreograph;
+			sourceTree = "<group>";
+		};
+		DD6FE84E2D8AC7725BCA78AC /* src */ = {
+			isa = PBXGroup;
+			children = (
+				490580A94E63D8C32482DB7E /* ofxChoreograph.h */,
+			);
+			name = src;
+			sourceTree = "<group>";
+		};
+		E4328144138ABC890047C5CB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E4328148138ABC890047C5CB /* openFrameworksDebug.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E4B69B4A0A3A1720003C02F2 = {
+			isa = PBXGroup;
+			children = (
+				E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */,
+				E4EB6923138AFD0F00A09F29 /* Project.xcconfig */,
+				E4B69E1C0A3A1BDC003C02F2 /* src */,
+				E4EEC9E9138DF44700A80321 /* openFrameworks */,
+				BB4B014C10F69532006C3DED /* addons */,
+				6948EE371B920CB800B5AC1A /* local_addons */,
+				E4B69B5B0A3A1756003C02F2 /* AdvancedTweenDebug.app */,
+			);
+			sourceTree = "<group>";
+		};
+		E4B69E1C0A3A1BDC003C02F2 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				E4B69E1D0A3A1BDC003C02F2 /* main.cpp */,
+				620CF2A5F68AB0C9BD50BB3F /* AdvancedTweenApp.cpp */,
+				5C53D7F5C618BA73D5EA56BC /* AdvancedTweenApp.h */,
+			);
+			path = src;
+			sourceTree = SOURCE_ROOT;
+		};
+		E4EEC9E9138DF44700A80321 /* openFrameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E4EB691F138AFCF100A09F29 /* CoreOF.xcconfig */,
+				E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */,
+			);
+			name = openFrameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E4B69B5A0A3A1756003C02F2 /* AdvancedTween */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "AdvancedTween" */;
+			buildPhases = (
+				E4B69B580A3A1756003C02F2 /* Sources */,
+				E4B69B590A3A1756003C02F2 /* Frameworks */,
+				E4B6FFFD0C3F9AB9008CF71C /* ShellScript */,
+				E4C2427710CC5ABF004149E2 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E4EEB9AC138B136A00A80321 /* PBXTargetDependency */,
+			);
+			name = AdvancedTween;
+			productName = myOFApp;
+			productReference = E4B69B5B0A3A1756003C02F2 /* AdvancedTweenDebug.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+			};
+			buildConfigurationList = E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "AdvancedTween" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = E4B69B4A0A3A1720003C02F2;
+			productRefGroup = E4B69B4A0A3A1720003C02F2;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = E4328144138ABC890047C5CB /* Products */;
+					ProjectRef = E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				E4B69B5A0A3A1756003C02F2 /* AdvancedTween */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		E4328148138ABC890047C5CB /* openFrameworksDebug.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = openFrameworksDebug.a;
+			remoteRef = E4328147138ABC890047C5CB /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		E4B6FFFD0C3F9AB9008CF71C /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "rsync -aved ../../../libs/fmodex/lib/osx/libfmodex.dylib \"$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/MacOS/\"; install_name_tool -change ./libfmodex.dylib @executable_path/libfmodex.dylib \"$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/MacOS/$PRODUCT_NAME\";\nmkdir -p \"$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Resources/\"\nrsync -aved \"$ICON_FILE\" \"$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Resources/\"\nrsync -aved ../../../libs/glut/lib/osx/GLUT.framework \"$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Frameworks/\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E4B69B580A3A1756003C02F2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
+				3985EFBD0471A7E165B860A5 /* AdvancedTweenApp.cpp in Sources */,
+				211D8E0749344D0339EAF992 /* Cue.cpp in Sources */,
+				6C059489E7856525F282CE7E /* MotionGroup.cpp in Sources */,
+				403D0CBC44F5D61BB819B57A /* Timeline.cpp in Sources */,
+				CD387D3688668E566FA9C4E4 /* TimelineItem.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E4EEB9AC138B136A00A80321 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = openFrameworks;
+			targetProxy = E4EEB9AB138B136A00A80321 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		E4B69B4E0A3A1720003C02F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4EB6923138AFD0F00A09F29 /* Project.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(SRCROOT)/bin/";
+				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
+				GCC_AUTO_VECTORIZATION = YES;
+				GCC_ENABLE_SSE3_EXTENSIONS = YES;
+				GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS = YES;
+				GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO = NO;
+				GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL = NO;
+				GCC_WARN_UNINITIALIZED_AUTOS = NO;
+				GCC_WARN_UNUSED_VALUE = NO;
+				GCC_WARN_UNUSED_VARIABLE = NO;
+				HEADER_SEARCH_PATHS = (
+					"$(OF_CORE_HEADERS)",
+					src,
+					../../../addons/ofxChoreograph/libs,
+					../../../addons/ofxChoreograph/libs/Choreograph,
+					../../../addons/ofxChoreograph/libs/Choreograph/src,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization,
+					../../../addons/ofxChoreograph/src,
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CPLUSPLUSFLAGS = (
+					"-D__MACOSX_CORE__",
+					"-mtune=native",
+				);
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		E4B69B4F0A3A1720003C02F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4EB6923138AFD0F00A09F29 /* Project.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(SRCROOT)/bin/";
+				COPY_PHASE_STRIP = YES;
+				DEAD_CODE_STRIPPING = YES;
+				GCC_AUTO_VECTORIZATION = YES;
+				GCC_ENABLE_SSE3_EXTENSIONS = YES;
+				GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_UNROLL_LOOPS = YES;
+				GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS = YES;
+				GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO = NO;
+				GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL = NO;
+				GCC_WARN_UNINITIALIZED_AUTOS = NO;
+				GCC_WARN_UNUSED_VALUE = NO;
+				GCC_WARN_UNUSED_VARIABLE = NO;
+				HEADER_SEARCH_PATHS = (
+					"$(OF_CORE_HEADERS)",
+					src,
+					../../../addons/ofxChoreograph/libs,
+					../../../addons/ofxChoreograph/libs/Choreograph,
+					../../../addons/ofxChoreograph/libs/Choreograph/src,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization,
+					../../../addons/ofxChoreograph/src,
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				OTHER_CPLUSPLUSFLAGS = (
+					"-D__MACOSX_CORE__",
+					"-mtune=native",
+				);
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		E4B69B600A3A1757003C02F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4EB6923138AFD0F00A09F29 /* Project.xcconfig */;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+				);
+				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/../../../libs/glut/lib/osx\"";
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_MODEL_TUNING = NONE;
+				HEADER_SEARCH_PATHS = (
+					"$(OF_CORE_HEADERS)",
+					src,
+					../../../addons/ofxChoreograph/libs,
+					../../../addons/ofxChoreograph/libs/Choreograph,
+					../../../addons/ofxChoreograph/libs/Choreograph/src,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization,
+					../../../addons/ofxChoreograph/src,
+				);
+				ICON = "$(ICON_NAME_DEBUG)";
+				ICON_FILE = "$(ICON_FILE_PATH)$(ICON)";
+				INFOPLIST_FILE = "openFrameworks-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				PRODUCT_NAME = "$(TARGET_NAME)Debug";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		E4B69B610A3A1757003C02F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4EB6923138AFD0F00A09F29 /* Project.xcconfig */;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+				);
+				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/../../../libs/glut/lib/osx\"";
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_MODEL_TUNING = NONE;
+				HEADER_SEARCH_PATHS = (
+					"$(OF_CORE_HEADERS)",
+					src,
+					../../../addons/ofxChoreograph/libs,
+					../../../addons/ofxChoreograph/libs/Choreograph,
+					../../../addons/ofxChoreograph/libs/Choreograph/src,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase,
+					../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization,
+					../../../addons/ofxChoreograph/src,
+				);
+				ICON = "$(ICON_NAME_RELEASE)";
+				ICON_FILE = "$(ICON_FILE_PATH)$(ICON)";
+				INFOPLIST_FILE = "openFrameworks-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+				baseConfigurationReference = E4EB6923138AFD0F00A09F29;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "AdvancedTween" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4B69B4E0A3A1720003C02F2 /* Debug */,
+				E4B69B4F0A3A1720003C02F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "AdvancedTween" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4B69B600A3A1757003C02F2 /* Debug */,
+				E4B69B610A3A1757003C02F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E4B69B4C0A3A1720003C02F2 /* Project object */;
+}
