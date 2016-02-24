@@ -12,7 +12,7 @@ void BasicAppendTweenApp::setup()
 
 //--------------------------------------------------------------
 void BasicAppendTweenApp::update(){
-    timeline().step(1/60.);
+    timeline().step(ofGetLastFrameTime());
 }
 
 //--------------------------------------------------------------

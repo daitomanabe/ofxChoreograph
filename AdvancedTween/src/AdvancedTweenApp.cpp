@@ -39,7 +39,7 @@ void AdvancedTweenApp::setup(){
 
 //--------------------------------------------------------------
 void AdvancedTweenApp::update(){
-    timeline.step(1/60.);
+    timeline.step(ofGetLastFrameTime());
 }
 
 //--------------------------------------------------------------
