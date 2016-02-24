@@ -27,12 +27,12 @@ void AdvancedTweenApp::setup(){
         m.then<RampTo>(randv(),1);
         m.then<RampTo>(randv(),1);
         m.then<RampTo>(ofVec3f(ofGetWidth()/2.0, ofGetHeight()/2.0, 0),1);
-        m.then(makeProcedure<ofVec3f>(1, [&i](Time t, Time duration){
+        m.then(makeProcedure<ofVec3f>(1, [=](Time t, Time duration){
             float px = cos(i/10000.*TWO_PI) * 300 * t/duration + ofGetWidth()/2.0;
             float py = sin(i/10000.*TWO_PI) * 300 * t/duration + ofGetHeight()/2.0;
-            i++; // i should be here
             return ofVec3f(px, py, 0);
         }));
+        i++; // i should be here
         timeline.apply(&v, m);
     }
 }
