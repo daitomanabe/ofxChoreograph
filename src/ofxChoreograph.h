@@ -8,6 +8,7 @@
 // https://github.com/pizthewiz/ofxCinderTimeline
 
 #include "choreograph/Choreograph.h"
+#include "OFSpecialization.h"
 
 namespace ofxChoreograph{
     using namespace choreograph;
