@@ -9,7 +9,7 @@
 		<string>46</string>
 		<key>objects</key>
 		<dict>
-			<key>28171795993CEAFD3FF93820</key>
+			<key>0C75EDE6FA30D7FBD7DC89B9</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -20,11 +20,11 @@
 				<key>name</key>
 				<string>TimeType.h</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/TimeType.h</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/TimeType.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>28DFCFD65B0FE008C39C2928</key>
+			<key>29708D01A7834CD12DB65B7F</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -35,11 +35,11 @@
 				<key>name</key>
 				<string>TimelineOptions.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/TimelineOptions.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/TimelineOptions.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>2F58ACF1D9380AA0989EAF60</key>
+			<key>4AAE5A5AE0738785ECD51ADE</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -50,18 +50,18 @@
 				<key>name</key>
 				<string>TimelineItem.h</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/TimelineItem.h</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/TimelineItem.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>420CE524112E86699A40DBF6</key>
+			<key>CD387D3688668E566FA9C4E4</key>
 			<dict>
 				<key>fileRef</key>
-				<string>FDA2C7186DB30CE9F7222236</string>
+				<string>77977AFF6979EF3AA6B42621</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>FDA2C7186DB30CE9F7222236</key>
+			<key>77977AFF6979EF3AA6B42621</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -72,11 +72,11 @@
 				<key>name</key>
 				<string>TimelineItem.cpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/TimelineItem.cpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/TimelineItem.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>C9550A0ED1906D68AAA83631</key>
+			<key>6747A90934496BE3C447BE95</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -87,18 +87,18 @@
 				<key>name</key>
 				<string>Timeline.h</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Timeline.h</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Timeline.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>92F7830057F1A656B0C454F6</key>
+			<key>403D0CBC44F5D61BB819B57A</key>
 			<dict>
 				<key>fileRef</key>
-				<string>3278B11E6E0E80DE8C37B834</string>
+				<string>20470DE9D5E622BB27F97E5A</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>3278B11E6E0E80DE8C37B834</key>
+			<key>20470DE9D5E622BB27F97E5A</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -109,7 +109,7 @@
 				<key>name</key>
 				<string>Timeline.cpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Timeline.cpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Timeline.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -117,7 +117,7 @@
 			<dict>
 				<key>children</key>
 				<array>
-					<string>ACA0F84F57BC7777B4AC2EFC</string>
+					<string>0F31EB40F50677CE6A649FD7</string>
 				</array>
 				<key>isa</key>
 				<string>PBXGroup</string>
@@ -126,7 +126,7 @@
 				<key>sourceTree</key>
 				<string>&lt;group&gt;</string>
 			</dict>
-			<key>ACA0F84F57BC7777B4AC2EFC</key>
+			<key>0F31EB40F50677CE6A649FD7</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -137,11 +137,11 @@
 				<key>name</key>
 				<string>CinderSpecialization.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization/CinderSpecialization.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization/CinderSpecialization.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>80FFE16290A196973CC9DAD4</key>
+			<key>048E0F09DC08473CE07DD478</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -152,11 +152,11 @@
 				<key>name</key>
 				<string>Sequence.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Sequence.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Sequence.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>BD8492CB04A6DC19FB8C8F7F</key>
+			<key>04C0A5B2406EC3EF674EFE94</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -167,11 +167,11 @@
 				<key>name</key>
 				<string>Phrase.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Phrase.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Phrase.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>2EEF03467B8D0FBF647C3CF1</key>
+			<key>D37B17025DF61E442ABB01C1</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -182,11 +182,11 @@
 				<key>name</key>
 				<string>Sugar.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Sugar.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Sugar.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>70B9A38DEA32ED4D8AACBFB8</key>
+			<key>00EC7CDB923666FB3C27881F</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -197,11 +197,11 @@
 				<key>name</key>
 				<string>Retime.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Retime.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Retime.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>F53D022262CA11507785E160</key>
+			<key>27DCCBB12000BC358EE8C455</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -212,11 +212,11 @@
 				<key>name</key>
 				<string>Ramp.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Ramp.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Ramp.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>81CF184E026F3E2A0D81EF50</key>
+			<key>FA9541A0BDEB60AD67406BBD</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -227,11 +227,11 @@
 				<key>name</key>
 				<string>Procedural.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Procedural.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Procedural.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>6D3093CDA3EC9CE2D41B33FC</key>
+			<key>78051EDE2CDDB83038BDB83C</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -242,7 +242,7 @@
 				<key>name</key>
 				<string>Hold.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Hold.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Hold.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -250,12 +250,12 @@
 			<dict>
 				<key>children</key>
 				<array>
-					<string>7E2F5D56D7CCB83B8A8DF4DB</string>
-					<string>6D3093CDA3EC9CE2D41B33FC</string>
-					<string>81CF184E026F3E2A0D81EF50</string>
-					<string>F53D022262CA11507785E160</string>
-					<string>70B9A38DEA32ED4D8AACBFB8</string>
-					<string>2EEF03467B8D0FBF647C3CF1</string>
+					<string>1983FBAFE458AEAFB3370901</string>
+					<string>78051EDE2CDDB83038BDB83C</string>
+					<string>FA9541A0BDEB60AD67406BBD</string>
+					<string>27DCCBB12000BC358EE8C455</string>
+					<string>00EC7CDB923666FB3C27881F</string>
+					<string>D37B17025DF61E442ABB01C1</string>
 				</array>
 				<key>isa</key>
 				<string>PBXGroup</string>
@@ -264,7 +264,7 @@
 				<key>sourceTree</key>
 				<string>&lt;group&gt;</string>
 			</dict>
-			<key>7E2F5D56D7CCB83B8A8DF4DB</key>
+			<key>1983FBAFE458AEAFB3370901</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -275,11 +275,11 @@
 				<key>name</key>
 				<string>Combine.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Combine.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Combine.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>696AEE9F218450190D5EE088</key>
+			<key>861F81DC747596CE9429859F</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -290,11 +290,11 @@
 				<key>name</key>
 				<string>Output.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Output.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Output.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>3486406DC8221417A26E66D8</key>
+			<key>47D432A555851FC09441CBE8</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -305,18 +305,18 @@
 				<key>name</key>
 				<string>MotionGroup.h</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/MotionGroup.h</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/MotionGroup.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>CDC0CB661AB06C02D1361EB5</key>
+			<key>6C059489E7856525F282CE7E</key>
 			<dict>
 				<key>fileRef</key>
-				<string>08B521629C0EB5DC4C3EEB14</string>
+				<string>622A864B906FB2FA7DEF48B8</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>08B521629C0EB5DC4C3EEB14</key>
+			<key>622A864B906FB2FA7DEF48B8</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -327,11 +327,11 @@
 				<key>name</key>
 				<string>MotionGroup.cpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/MotionGroup.cpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/MotionGroup.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>2D4D87E52F0FCCE3FCAFC160</key>
+			<key>E9F92E2F4BC551B65852DF70</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -342,11 +342,11 @@
 				<key>name</key>
 				<string>Motion.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Motion.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Motion.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>05AE5A48ECCA2299A3AD9C93</key>
+			<key>A520FD4DBB9E842028C019C1</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -357,11 +357,11 @@
 				<key>name</key>
 				<string>Easing.h</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Easing.h</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Easing.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>46D1412B6C072D62F25D75C0</key>
+			<key>62F21D3ED67F51AB29CAD7A4</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -372,7 +372,7 @@
 				<key>name</key>
 				<string>VectorManipulation.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail/VectorManipulation.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail/VectorManipulation.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -380,8 +380,8 @@
 			<dict>
 				<key>children</key>
 				<array>
-					<string>E852D80B9679F288C9FDBAD3</string>
-					<string>46D1412B6C072D62F25D75C0</string>
+					<string>BB59E68CA79855DCE3C77E14</string>
+					<string>62F21D3ED67F51AB29CAD7A4</string>
 				</array>
 				<key>isa</key>
 				<string>PBXGroup</string>
@@ -390,7 +390,7 @@
 				<key>sourceTree</key>
 				<string>&lt;group&gt;</string>
 			</dict>
-			<key>E852D80B9679F288C9FDBAD3</key>
+			<key>BB59E68CA79855DCE3C77E14</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -401,11 +401,11 @@
 				<key>name</key>
 				<string>MakeUnique.hpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail/MakeUnique.hpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail/MakeUnique.hpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>7BC7A3DC9508AE7E67E4836C</key>
+			<key>9A6D0E21BBCD9CFB2D53D6C0</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -416,18 +416,18 @@
 				<key>name</key>
 				<string>Cue.h</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Cue.h</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Cue.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>6C8205E1796DF0E9C38040F4</key>
+			<key>211D8E0749344D0339EAF992</key>
 			<dict>
 				<key>fileRef</key>
-				<string>A46634D8141F8A820460B2DD</string>
+				<string>CB977645DC89C28DDA509D67</string>
 				<key>isa</key>
 				<string>PBXBuildFile</string>
 			</dict>
-			<key>A46634D8141F8A820460B2DD</key>
+			<key>CB977645DC89C28DDA509D67</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.cpp.cpp</string>
@@ -438,7 +438,7 @@
 				<key>name</key>
 				<string>Cue.cpp</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Cue.cpp</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Cue.cpp</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -446,25 +446,25 @@
 			<dict>
 				<key>children</key>
 				<array>
-					<string>44E85627B604D57FC8651D42</string>
-					<string>A46634D8141F8A820460B2DD</string>
-					<string>7BC7A3DC9508AE7E67E4836C</string>
+					<string>49B4DBACABE4FBE6DE72474D</string>
+					<string>CB977645DC89C28DDA509D67</string>
+					<string>9A6D0E21BBCD9CFB2D53D6C0</string>
 					<string>A1EF91DBA995EB56DAE53F24</string>
-					<string>05AE5A48ECCA2299A3AD9C93</string>
-					<string>2D4D87E52F0FCCE3FCAFC160</string>
-					<string>08B521629C0EB5DC4C3EEB14</string>
-					<string>3486406DC8221417A26E66D8</string>
-					<string>696AEE9F218450190D5EE088</string>
+					<string>A520FD4DBB9E842028C019C1</string>
+					<string>E9F92E2F4BC551B65852DF70</string>
+					<string>622A864B906FB2FA7DEF48B8</string>
+					<string>47D432A555851FC09441CBE8</string>
+					<string>861F81DC747596CE9429859F</string>
 					<string>98DD8C725A3506AA67291399</string>
-					<string>BD8492CB04A6DC19FB8C8F7F</string>
-					<string>80FFE16290A196973CC9DAD4</string>
+					<string>04C0A5B2406EC3EF674EFE94</string>
+					<string>048E0F09DC08473CE07DD478</string>
 					<string>29184E6D07FD7D2651458351</string>
-					<string>3278B11E6E0E80DE8C37B834</string>
-					<string>C9550A0ED1906D68AAA83631</string>
-					<string>FDA2C7186DB30CE9F7222236</string>
-					<string>2F58ACF1D9380AA0989EAF60</string>
-					<string>28DFCFD65B0FE008C39C2928</string>
-					<string>28171795993CEAFD3FF93820</string>
+					<string>20470DE9D5E622BB27F97E5A</string>
+					<string>6747A90934496BE3C447BE95</string>
+					<string>77977AFF6979EF3AA6B42621</string>
+					<string>4AAE5A5AE0738785ECD51ADE</string>
+					<string>29708D01A7834CD12DB65B7F</string>
+					<string>0C75EDE6FA30D7FBD7DC89B9</string>
 				</array>
 				<key>isa</key>
 				<string>PBXGroup</string>
@@ -512,7 +512,7 @@
 				<key>sourceTree</key>
 				<string>&lt;group&gt;</string>
 			</dict>
-			<key>44E85627B604D57FC8651D42</key>
+			<key>49B4DBACABE4FBE6DE72474D</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -523,7 +523,7 @@
 				<key>name</key>
 				<string>Choreograph.h</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Choreograph.h</string>
+				<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Choreograph.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -531,7 +531,7 @@
 			<dict>
 				<key>children</key>
 				<array>
-					<string>1FF0680F28B7895368B88FB1</string>
+					<string>AF73C37BA01C85CFB6E808CD</string>
 				</array>
 				<key>isa</key>
 				<string>PBXGroup</string>
@@ -540,7 +540,7 @@
 				<key>sourceTree</key>
 				<string>&lt;group&gt;</string>
 			</dict>
-			<key>1FF0680F28B7895368B88FB1</key>
+			<key>AF73C37BA01C85CFB6E808CD</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -551,7 +551,7 @@
 				<key>name</key>
 				<string>OFSpecialization.h</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/src/specialization/OFSpecialization.h</string>
+				<string>../../../addons/ofxChoreograph/src/specialization/OFSpecialization.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -559,7 +559,7 @@
 			<dict>
 				<key>children</key>
 				<array>
-					<string>F1B618F3785784FA5C01990F</string>
+					<string>490580A94E63D8C32482DB7E</string>
 					<string>0973F5322B74DBB70BEE2030</string>
 				</array>
 				<key>isa</key>
@@ -583,7 +583,7 @@
 				<key>sourceTree</key>
 				<string>&lt;group&gt;</string>
 			</dict>
-			<key>F1B618F3785784FA5C01990F</key>
+			<key>490580A94E63D8C32482DB7E</key>
 			<dict>
 				<key>explicitFileType</key>
 				<string>sourcecode.c.h</string>
@@ -594,7 +594,7 @@
 				<key>name</key>
 				<string>ofxChoreograph.h</string>
 				<key>path</key>
-				<string>../../../../addons/ofxChoreograph/src/ofxChoreograph.h</string>
+				<string>../../../addons/ofxChoreograph/src/ofxChoreograph.h</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -631,7 +631,7 @@
 				<key>name</key>
 				<string>openFrameworksLib.xcodeproj</string>
 				<key>path</key>
-				<string>../../../../libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj</string>
+				<string>../../../libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
@@ -767,16 +767,15 @@
 					<key>HEADER_SEARCH_PATHS</key>
 					<array>
 						<string>$(OF_CORE_HEADERS)</string>
-						<string>src</string>
-						<string>../../../../addons/ofxChoreograph/libs</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization</string>
-						<string>../../../../addons/ofxChoreograph/src</string>
-						<string>../../../../addons/ofxChoreograph/src/specialization</string>
+						<string>../../../addons/ofxChoreograph/libs</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization</string>
+						<string>../../../addons/ofxChoreograph/src</string>
+						<string>../../../addons/ofxChoreograph/src/specialization</string>
 					</array>
 					<key>CONFIGURATION_BUILD_DIR</key>
 					<string>$(SRCROOT)/bin/</string>
@@ -834,16 +833,15 @@
 					<key>HEADER_SEARCH_PATHS</key>
 					<array>
 						<string>$(OF_CORE_HEADERS)</string>
-						<string>src</string>
-						<string>../../../../addons/ofxChoreograph/libs</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization</string>
-						<string>../../../../addons/ofxChoreograph/src</string>
-						<string>../../../../addons/ofxChoreograph/src/specialization</string>
+						<string>../../../addons/ofxChoreograph/libs</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization</string>
+						<string>../../../addons/ofxChoreograph/src</string>
+						<string>../../../addons/ofxChoreograph/src/specialization</string>
 					</array>
 					<key>CONFIGURATION_BUILD_DIR</key>
 					<string>$(SRCROOT)/bin/</string>
@@ -900,10 +898,10 @@
 				<array>
 					<string>E4B69E200A3A1BDC003C02F2</string>
 					<string>E4B69E210A3A1BDC003C02F2</string>
-					<string>6C8205E1796DF0E9C38040F4</string>
-					<string>CDC0CB661AB06C02D1361EB5</string>
-					<string>92F7830057F1A656B0C454F6</string>
-					<string>420CE524112E86699A40DBF6</string>
+					<string>211D8E0749344D0339EAF992</string>
+					<string>6C059489E7856525F282CE7E</string>
+					<string>403D0CBC44F5D61BB819B57A</string>
+					<string>CD387D3688668E566FA9C4E4</string>
 				</array>
 				<key>isa</key>
 				<string>PBXSourcesBuildPhase</string>
@@ -987,16 +985,15 @@
 					<key>HEADER_SEARCH_PATHS</key>
 					<array>
 						<string>$(OF_CORE_HEADERS)</string>
-						<string>src</string>
-						<string>../../../../addons/ofxChoreograph/libs</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization</string>
-						<string>../../../../addons/ofxChoreograph/src</string>
-						<string>../../../../addons/ofxChoreograph/src/specialization</string>
+						<string>../../../addons/ofxChoreograph/libs</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization</string>
+						<string>../../../addons/ofxChoreograph/src</string>
+						<string>../../../addons/ofxChoreograph/src/specialization</string>
 					</array>
 					<key>COMBINE_HIDPI_IMAGES</key>
 					<string>YES</string>
@@ -1008,7 +1005,7 @@
 						<string>$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)</string>
 					</array>
 					<key>FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1</key>
-					<string>"$(SRCROOT)/../../../../libs/glut/lib/osx"</string>
+					<string>"$(SRCROOT)/../../../libs/glut/lib/osx"</string>
 					<key>GCC_DYNAMIC_NO_PIC</key>
 					<string>NO</string>
 					<key>GCC_GENERATE_DEBUGGING_SYMBOLS</key>
@@ -1044,16 +1041,15 @@
 					<key>HEADER_SEARCH_PATHS</key>
 					<array>
 						<string>$(OF_CORE_HEADERS)</string>
-						<string>src</string>
-						<string>../../../../addons/ofxChoreograph/libs</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase</string>
-						<string>../../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization</string>
-						<string>../../../../addons/ofxChoreograph/src</string>
-						<string>../../../../addons/ofxChoreograph/src/specialization</string>
+						<string>../../../addons/ofxChoreograph/libs</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase</string>
+						<string>../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/specialization</string>
+						<string>../../../addons/ofxChoreograph/src</string>
+						<string>../../../addons/ofxChoreograph/src/specialization</string>
 					</array>
 					<key>COMBINE_HIDPI_IMAGES</key>
 					<string>YES</string>
@@ -1065,7 +1061,7 @@
 						<string>$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)</string>
 					</array>
 					<key>FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1</key>
-					<string>"$(SRCROOT)/../../../../libs/glut/lib/osx"</string>
+					<string>"$(SRCROOT)/../../../libs/glut/lib/osx"</string>
 					<key>GCC_GENERATE_DEBUGGING_SYMBOLS</key>
 					<string>YES</string>
 					<key>GCC_MODEL_TUNING</key>
@@ -1200,10 +1196,10 @@
 # Copy default icon file into App/Resources
 rsync -aved "$ICON_FILE" "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Resources/"
 # Copy libfmod and change install directory for fmod to run
-rsync -aved ../../../../libs/fmodex/lib/osx/libfmodex.dylib "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Frameworks/";
+rsync -aved ../../../libs/fmodex/lib/osx/libfmodex.dylib "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Frameworks/";
 install_name_tool -change @executable_path/libfmodex.dylib @executable_path/../Frameworks/libfmodex.dylib "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/MacOS/$PRODUCT_NAME";
 # Copy GLUT framework (must remove for AppStore submissions)
-rsync -aved ../../../../libs/glut/lib/osx/GLUT.framework "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Frameworks/"
+rsync -aved ../../../libs/glut/lib/osx/GLUT.framework "$TARGET_BUILD_DIR/$PRODUCT_NAME.app/Contents/Frameworks/"
 </string>
 			</dict>
 			<key>E4C2427710CC5ABF004149E2</key>
@@ -1232,7 +1228,7 @@ rsync -aved ../../../../libs/glut/lib/osx/GLUT.framework "$TARGET_BUILD_DIR/$PRO
 				<key>name</key>
 				<string>CoreOF.xcconfig</string>
 				<key>path</key>
-				<string>../../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig</string>
+				<string>../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig</string>
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
