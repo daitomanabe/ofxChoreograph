@@ -70,6 +70,7 @@
 		BB59E68CA79855DCE3C77E14 /* MakeUnique.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = MakeUnique.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/detail/MakeUnique.hpp; sourceTree = SOURCE_ROOT; };
 		BE691F8E1C7859AA005BADCE /* BasicAppendTweenApp.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BasicAppendTweenApp.cpp; sourceTree = "<group>"; };
 		BE691F8F1C7859AA005BADCE /* BasicAppendTweenApp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BasicAppendTweenApp.h; sourceTree = "<group>"; };
+		BEF016EA1CDB13940053F38B /* OFSpecialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OFSpecialization.h; sourceTree = "<group>"; };
 		CB977645DC89C28DDA509D67 /* Cue.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 30; name = Cue.cpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/Cue.cpp; sourceTree = SOURCE_ROOT; };
 		D37B17025DF61E442ABB01C1 /* Sugar.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = Sugar.hpp; path = ../../../addons/ofxChoreograph/libs/Choreograph/src/choreograph/phrase/Sugar.hpp; sourceTree = SOURCE_ROOT; };
 		E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = openFrameworksLib.xcodeproj; path = ../../../libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj; sourceTree = SOURCE_ROOT; };
@@ -198,9 +199,18 @@
 			name = Choreograph;
 			sourceTree = "<group>";
 		};
+		BEF016E91CDB13940053F38B /* specialization */ = {
+			isa = PBXGroup;
+			children = (
+				BEF016EA1CDB13940053F38B /* OFSpecialization.h */,
+			);
+			path = specialization;
+			sourceTree = "<group>";
+		};
 		DD6FE84E2D8AC7725BCA78AC /* src */ = {
 			isa = PBXGroup;
 			children = (
+				BEF016E91CDB13940053F38B /* specialization */,
 				490580A94E63D8C32482DB7E /* ofxChoreograph.h */,
 			);
 			name = src;
