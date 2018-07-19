@@ -2,6 +2,7 @@
 
 #include "choreograph/Sequence.hpp"
 #include "ofQuaternion.h"
+#include "ofColor.h"
 ///Specialization of lerpT for openFrameworks.
 ///ofQuaternion,ofColor,ofFloatColor and ofShortColor.
 namespace  choreograph
