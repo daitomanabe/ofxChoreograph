@@ -27,6 +27,7 @@
 
 #pragma once
 
+#include <iterator>
 #include "TimelineOptions.hpp"
 #include "detail/MakeUnique.hpp"
 
